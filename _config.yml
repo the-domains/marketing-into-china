@@ -1,4 +1,4 @@
-name: Marketing into China
+name: Kevin Li
 favicon: null
 layout_spectrum: 0.047581283608451486
 typography_spectrum: 0.028177585918456316
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#dfe4e8'
+    - '#797e81'
+    - '#b5073c'
+    - '#e8e10d'
+    - '#ed881c'
   brandStrength: 0.8771689655259252
   lightness: 0.32421682216227055
   saturation: 0.6302691036835313
