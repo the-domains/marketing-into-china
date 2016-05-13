@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: All you need to know about Chinese digital marketing.
-datePublished: '2016-05-13T23:46:37.554Z'
-dateModified: '2016-05-13T23:46:19.964Z'
+description: Canada China Trade Conference
+datePublished: '2016-05-13T23:50:51.118Z'
+dateModified: '2016-05-13T23:50:43.255Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-all-you-need-to-know-about-chinese-digital-marketing.md
@@ -21,6 +21,11 @@ url: all-you-need-to-know-about-chinese-digital-marketing/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dd54bc0-1789-4d71-94ee-c7b47819dade.png)
+Canada China Trade Conference
 
-All you need to know about Chinese digital marketing.
+What it takes to get your products into China ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b5aa854-4e28-4358-92f2-22a2f1e47795.jpg)
+
+Event Agenda
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa717f08-cb22-4f93-98c7-cadebb184abb.jpg)
