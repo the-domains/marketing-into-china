@@ -1,0 +1,28 @@
+name: Marketing into China
+favicon: null
+layout_spectrum: 0.047581283608451486
+typography_spectrum: 0.028177585918456316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8771689655259252
+  lightness: 0.32421682216227055
+  saturation: 0.6302691036835313
+  rhythmicContrast: 0.7542102145962417
+purpose: []
